@@ -15,7 +15,7 @@ body {
   grid-template-rows: repeat(2, auto);
   grid-template-areas:
     "Daniel Daniel Jonathan Kira"
-    "Jeanette Patrik Patrik kira";
+    "Jeanette Patrik Patrik Kira";
   width: 1110px;
   height: 572px;
   gap: 24px 30px;
